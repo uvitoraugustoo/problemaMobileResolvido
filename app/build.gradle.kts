@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.kleberson.problemamobile"
-    compileSdk = 36
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.kleberson.problemamobile"
