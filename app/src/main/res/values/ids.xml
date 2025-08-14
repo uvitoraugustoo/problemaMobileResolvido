@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="etNome" type="id" />
+    <item name="etPreco" type="id" />
+    <item name="etQuantidade" type="id" />
+    <item name="btnSalvar" type="id" />
+    <item name="rvProdutos" type="id" />
+    <item name="tvNome" type="id" />
+    <item name="btnEditar" type="id" />
+    <item name="tvPreco" type="id" />
+    <item name="tvQuantidade" type="id" />
+    <item name="btnRemover" type="id" />
+</resources>
